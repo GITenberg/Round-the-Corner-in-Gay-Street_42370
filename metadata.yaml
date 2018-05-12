@@ -1,0 +1,44 @@
+_repo: Round-the-Corner-in-Gay-Street_42370
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Relyea, C. M. (Charles M.)
+    aliases:
+    - Relyea, C. M. (Charles Mark)
+    - Relyea, Charles M.
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '8637'
+    url: http://www.gutenberg.org/2009/agents/8637
+  - agent_name: Thurston, Maud
+    gutenberg_agent_id: '41646'
+    url: http://www.gutenberg.org/2009/agents/41646
+covers:
+- cover_type: archival
+  image_path: 42370-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Richmond, Grace S. (Grace Smith)
+    alias: Smith, Grace
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '2216'
+    url: http://www.gutenberg.org/2009/agents/2216
+description: Tired of the angst and ennui that seems to pervade modern-day literature?
+  Get whisked away to a simpler era when you curl up with Round the Corner in Gay
+  Street, a charming tale of a happy, well-adjusted family that supports each other
+  even when the going gets tough. If you're looking for dysfunction and bad behavior,
+  you're in the wrong place.
+gutenberg_issued: '2013-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42370'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Families -- Juvenile fiction'
+- !lcc 'PZ'
+title: Round the Corner in Gay Street
+url: http://www.gutenberg.org/ebooks/42370
